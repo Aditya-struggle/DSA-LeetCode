@@ -1,9 +1,19 @@
-# DSA LeetCode Solutions
+# 💻 DSA-LeetCode Practice
 
-Organized LeetCode problem solutions in structured folders using C++.
+This repo contains my LeetCode practice categorized by topics (Arrays, LinkedList, Trees, etc.)
 
-## Folders:
-- ArrayLeetCode
-- VectorLeetCode
-  <br>
- (coming soon...)
+### ✅ Progress
+- Total Questions Solved: 50+
+- Language: C++
+- Platform: LeetCode
+
+### 📁 Folder Structure
+Each folder contains `.cpp` files related to that DSA topic.
+
+---
+
+### 🔥 Upcoming Goals
+- [ ] Complete Love Babbar 450 Sheet
+- [ ] Start Dynamic Programming
+- [ ] Start contributing to open-source
+
